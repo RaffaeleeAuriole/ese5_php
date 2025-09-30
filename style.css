@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fefaf6;
+    color: #333;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1 {
+    color: #b33c00;
+}
+form {
+    background: #fff3e6;
+    padding: 20px;
+    border-radius: 12px;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 20px 0;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+.checkboxes {
+    margin-top: 8px;
+}
+.checkboxes label {
+    font-weight: normal;
+    display: block;
+}
+input[type="submit"] {
+    margin-top: 15px;
+    background: #b33c00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background: #e65c00;
+}
+.scheda {
+    background: #e6ffe6;
+    padding: 20px;
+    border-radius: 12px;
+    width: 500px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 20px 0;
+}
+.back-button {
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    background: #b33c00;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+.back-button:hover {
+    background: #e65c00;
+}
+

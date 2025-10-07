@@ -61,7 +61,7 @@ if ($is_submitted && !empty($piatto)) {
 <head>
     <meta charset="UTF-8">
     <title>Ristorante Fantasia Digitale</title>
-    <link rel="stylesheet" href="stile.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Benvenuto al Ristorante Fantasia Digitale</h1>
